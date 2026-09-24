@@ -1,3 +1,9 @@
+Name:J.Prathyusha
+PRN : 250200038
+Section: 7
+
+
+
 # 🎓 Sai University Research Intelligence Dashboard
 
 ## 📌 Project Overview
