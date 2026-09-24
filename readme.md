@@ -1,5 +1,7 @@
 Name:J.Prathyusha
+
 PRN : 250200038
+
 Section: 7
 
 
@@ -283,7 +285,7 @@ The API provides publication information including fields such as:
 Clone this repository to your computer.
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/jampaniprathyusha12-creator/sai-research-intelligence-dashboard
 ```
 
 Then enter the project directory:
